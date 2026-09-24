@@ -1,0 +1,13 @@
+services:
+  technical-score:
+    build: .
+    container_name: figure-skating-score
+
+    volumes:
+      - ./data:/app/data
+
+    command:
+      - "--input"
+      - "/app/data/program.csv"
+      - "--output"
+      - "/app/data/technical_report.txt"

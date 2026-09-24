@@ -1,0 +1,18 @@
+FIGURE SKATING TECHNICAL SCORE REPORT
+=====================================
+
+3Lz        BV:  5.90   GOE: +0.85   Score:  6.75
+3F         BV:  5.30   GOE: -0.38   Score:  4.92
+3T         BV:  2.90   GOE: +0.12   Score:  3.02
+3Lo        BV:  4.90   GOE: +0.42   Score:  5.32
+2A         BV:  3.30   GOE: +0.33   Score:  3.63
+CCoSp4     BV:  3.50   GOE: +0.70   Score:  4.20
+StSq3      BV:  3.30   GOE: +0.50   Score:  3.80
+
+-------------------------------------
+Total Base Value:          29.10
+Total GOE Points:          +2.54
+Technical Element Score:   31.64
+
+Highest Scoring Element:
+3Lz (6.75 points)
